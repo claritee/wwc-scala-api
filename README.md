@@ -1,4 +1,4 @@
-#Scala Tutorial
+# Scala Tutorial
 
 This is a simple Scala tutorial aimed at beginners, covering:
  
@@ -7,7 +7,7 @@ This is a simple Scala tutorial aimed at beginners, covering:
  * Parsing Responses
  * Collections
 
-##What you need
+## What you need
  
 You will need the following installed
 
@@ -15,15 +15,15 @@ You will need the following installed
  * Scala (+Java)
  * Intellij Community Edition (or IDE of your choice)
 
-##Answers
+## Answers
 
 The answers are available if you get stuck. You can find them in the answers branch https://github.com/claritee/wwc-scala-api/tree/answers
 
-##Using this tutorial
+## Using this tutorial
 
 Feel free to fork/clone the repository. 
 If you want to contribute, please fork and raise a PR, thanks :)
 
-##Other Guides
+## Other Guides
  
 TBD
